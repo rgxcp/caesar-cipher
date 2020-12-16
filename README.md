@@ -13,7 +13,7 @@ END OF LIFE
 
 ## How to Use
 1. Clone this repository to your desired location.
-2. Add the original order and substitution order of character in `config.ts`.
+2. Add the original and substitution order of character in `config.ts`.
 3. Change the original text in `index.ts`.
 4. Run `tsc`.
 5. Run `node index.js`.
