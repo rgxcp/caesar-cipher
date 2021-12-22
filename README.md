@@ -1,7 +1,5 @@
-# 🕵️ TypeScript - Caesar Cipher
-**EN**: Caesar Cipher algorithm implementation in TypeScript.
-
-**ID**: Implementasi algoritma Caesar Cipher dalam TypeScript.
+# 🕵️ Caesar Cipher
+Caesar Cipher algorithm implementation in TypeScript.
 
 ## Status
 END OF LIFE
